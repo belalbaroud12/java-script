@@ -62,10 +62,9 @@ function choiceUser(arr) {
 
     }
 
-    return console.log();
 }
 
-
+choiceUser(x);
 
 
 
